@@ -1,2 +1,3 @@
 # Desafios-Alura
-Desafios Alura
+-Python
+-JavaScript
